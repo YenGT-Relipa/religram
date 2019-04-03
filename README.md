@@ -1,5 +1,5 @@
-# airbnb
-Airbnb - Ideal Project for Relipa's Customers and Relipa's Employees
+# Relibnb
+Relibnb - Ideal Project for Relipa's Customers and Relipa's Employees
 
 ## Vision
 - This will be a sample project for Relipa's Customers to know how to start a project

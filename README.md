@@ -9,6 +9,7 @@ Relibnb - Ideal Project for Relipa's Customers and Relipa's Employees
 - This project is a clone of Airbnb web version
 - It allows users to search, book, rate houses
 
+
 ## Demo
 
 ## Installation 
@@ -16,3 +17,7 @@ Relibnb - Ideal Project for Relipa's Customers and Relipa's Employees
 ## Tech Stack
 - Java
 - React 
+- RESTful API to communicate betweens server and client 
+
+## Roadmap
+- React Native to make app 
